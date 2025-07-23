@@ -14,7 +14,6 @@ A full-stack web application that allows HR/Admin to manage employee records dig
 - 🖼️ Background Image and Clean UI on All Pages
 - 🌐 Role-based access for secure management
 
----
 
 ## 🛠️ Tech Stack
 
